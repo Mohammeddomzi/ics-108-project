@@ -1,0 +1,7 @@
+Course,Credit Hours,Prerequisite,Corequisite 
+ICS 108,4,ICS 104,None
+PHYS 102,4,PHYS 101;MATH101,None
+MATH 101,4,None,None
+ICS 202,4,ICS 108;ICS 104,None
+ICS 253,4,ICS 104,None
+MATH103,4,MATH101,None
